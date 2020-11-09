@@ -1,6 +1,6 @@
 # Projeto Selenium Cucumber
 
-Aplicação inicia os testes usando o Selenium WebDriver e Cucumber, usando o site http://sampleapp.tricentis.com/101/#
+Aplicação inicia os testes usando o Selenium WebDriver, Cucumber e Java, usando o site http://sampleapp.tricentis.com/101/# como exemplo
 
 ## Exemplo de uso
 
